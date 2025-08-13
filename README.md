@@ -7,8 +7,8 @@ Criar um painel interativo para monitorar qualidade, acessibilidade e desempenho
 
 ## Fonte dos Dados
 - **Fonte:** Centers for Medicare & Medicaid Services (CMS)  
-- **Dataset:** [Hospital General Information](LINK_DO_DATASET)  
-- **Dicionário de dados:** [Data Dictionary](LINK_DICIONARIO)  
+-- **Dataset:** [Hospital General Information](https://data.cms.gov/provider-data/dataset/xubh-q36u#data-table)  
+- **Dicionário de dados:** [Data Dictionary](https://data.cms.gov/provider-data/dataset/xubh-q36u#data-dictionary)
 - **Formato:** CSV  
 - **Principais Campos:** Nome, endereço, tipo, propriedade, estado, cidade, nota geral, tipo de emergência, número de leitos, status no Medicare.
 
